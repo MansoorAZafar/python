@@ -1,4 +1,4 @@
-**Purpose?** <br/>
+**Purpose?** <br/> <br/>
 To read and write information to the simulated Parking Lot Database
 ------------------------------------------------------
 ------------------------------------------------------
